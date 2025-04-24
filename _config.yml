@@ -9,12 +9,12 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Madrid
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Specteado # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
@@ -23,13 +23,13 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://specteado2.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: specteado # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: specteado1 # change to your Twitter username
 
 social:
   # Change to your full name.
